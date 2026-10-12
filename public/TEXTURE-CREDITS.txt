@@ -1,0 +1,21 @@
+Photographic PBR textures from Poly Haven — CC0.
+https://polyhaven.com/license
+
+Weathered Brown Planks — Dimitrios Savva (photography), Rico Cilliers (processing)
+https://polyhaven.com/a/weathered_brown_planks
+Distressed Painted Planks — Rob Tuytel
+https://polyhaven.com/a/distressed_painted_planks
+Concrete Floor Worn 001 — Dimitrios Savva (photography), Rico Cilliers (processing)
+https://polyhaven.com/a/concrete_floor_worn_001
+
+Local 1K/2K/4K diffuse and OpenGL-normal maps, plus 1K/4K roughness maps.
+Textures are tinted, repeated and combined in game materials. All three sets
+are licensed CC0 and may be redistributed with the game.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Creepster font — Sideshow / Google Fonts; SIL Open Font License 1.1.
+https://github.com/google/fonts/tree/main/ofl/creepster
+See CREEPSTER-LICENSE.txt.
+
+Supplied app-icon artwork and enemy photograph are provided by the user.
+Reference screenshots were used only for visual direction, not as game assets.

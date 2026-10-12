@@ -1,0 +1,22 @@
+Escape 1 finger man 1.0.0 — third-party asset credits
+
+Horror Sound Effects Library — Little Robot Sound Factory
+Source: https://opengameart.org/content/horror-sound-effects-library
+License: Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
+Used: Ambience_Hell_01, Monster_05, Breath_Scared_01, Jingle_Lose_00.
+Changes: filenames remapped, converted to mono 44.1 kHz MP3/WAV,
+volume reduced to 45% of original. See HORROR-LICENSE.txt.
+
+RPG Audio — Kenney
+Source: https://kenney.nl/assets/rpg-audio
+License: Creative Commons Zero 1.0 (CC0)
+https://creativecommons.org/publicdomain/zero/1.0/
+Used: footstep00, footstep04, creak2, doorOpen_1, handleCoins2,
+metalLatch, metalPot2. Converted from OGG to mono WAV; volume reduced.
+See KENNEY-LICENSE.txt.
+
+Three.js 0.160.0 — Three.js authors
+License: MIT. See THREE-LICENSE.txt.
+
+Game HTML and enemy photograph supplied by the user.

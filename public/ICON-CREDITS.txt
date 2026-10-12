@@ -1,0 +1,7 @@
+Font Awesome Free 6.7.2 — Fonticons, Inc.
+Source: https://fontawesome.com/ and https://www.npmjs.com/package/@fortawesome/fontawesome-free
+SVG icons: Creative Commons Attribution 4.0 International (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+Changes: color/size styling; walking/person plus arrow icons combined for crouch/stand.
+The original icon paths are unchanged. Icons are bundled locally; no CDN or network is used.
+See FONT-AWESOME-LICENSE.txt. No endorsement by Fonticons, Inc. is implied.
